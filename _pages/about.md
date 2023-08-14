@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student in the Software School of Shanghai Jiao Tong University. I work in the Institute of Parallel And Distributed System (IPADS), advised by Prof. Haibo Chen, Prof. Binyu Zang, Prof. Jinyu Gu. My research mainly focuses on Microkernel Operating Systems. Before this, I received bachelor's degree from SJTU, ACM Honored Class.
+I am a third-year Ph.D. student in the Software School of Shanghai Jiao Tong University. I work in the Institute of Parallel And Distributed System (IPADS), advised by Prof. Haibo Chen, Prof. Binyu Zang, Prof. Jinyu Gu. My research mainly focuses on Operating Systems and Heterogeneous systems. Before this, I received bachelor's degree from SJTU, ACM Honored Class.
 
 More contents, please refer to CV Pages.
 
